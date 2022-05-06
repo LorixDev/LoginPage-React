@@ -1,5 +1,12 @@
 # LoginPage-React
 Simple Login Page using React ( css included )
 
-## Attention
-First create a react project and then change the default src/ and public/ with these file
+## Installation
+Create the project
+```js
+npx create-react-app LoginPage
+```
+Then replace the standard src/ and public/ with the repo file.
+
+## License
+Totally OpenSource
